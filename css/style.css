@@ -1,0 +1,35 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color: #2d3c49;	
+}
+
+hr{
+	border: 2.5px solid #7d97ad;
+}
+
+.text-title{
+	color: #2d3c49;
+}
+
+.line-color{
+	color: #7d97ad;
+	font-weight: 300;
+}
+
+.title-super{
+	font-size: 60px;
+}
+
+.title-mini{
+	font-weight: bold;
+}
+
+.title-logo{
+	margin-top: 20px;
+}
+
+.pic-panda{
+	margin-top: 20px;
+	width: 1170px;
+	height: 400px;
+}
